@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="385672c1-8138-44da-9a3b-0b9e89406409" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/iniciante/bee1003.py" afterDir="false" />
+    <list default="true" id="385672c1-8138-44da-9a3b-0b9e89406409" name="Changes" comment="BEE 1003">
+      <change afterPath="$PROJECT_DIR$/iniciante/bee1004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     "last_opened_file_path": "C:/Users/flpsp/Documents/GitHub/beecrowd-exercises-python"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.bee1003">
+  <component name="RunManager" selected="Python.bee1004">
     <configuration name="bee1002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="beecrowd-exercises-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +81,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="bee1004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="beecrowd-exercises-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iniciante" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iniciante/bee1004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="beecrowd-exercises-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +125,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bee1004" />
         <item itemvalue="Python.bee1003" />
         <item itemvalue="Python.bee1002" />
       </list>
@@ -118,6 +140,14 @@
       <option name="presentableId" value="Default" />
       <updated>1683836867525</updated>
     </task>
+    <task id="LOCAL-00001" summary="BEE 1003">
+      <created>1683847642071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683847642071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,5 +160,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BEE 1003" />
+    <option name="LAST_COMMIT_MESSAGE" value="BEE 1003" />
   </component>
 </project>
