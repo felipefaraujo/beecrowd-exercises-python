@@ -1,5 +1,5 @@
 distancia_km = int(input())
 
-tempo = distancia_km * 2
+tempo_em_minutos = distancia_km * 2
 
-print(f"{tempo} minutos")
+print(f"{tempo_em_minutos} minutos")
