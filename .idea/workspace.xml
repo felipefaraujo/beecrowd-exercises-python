@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="385672c1-8138-44da-9a3b-0b9e89406409" name="Changes" comment="BEE 1012">
-      <change afterPath="$PROJECT_DIR$/iniciante/bee1013.py" afterDir="false" />
+    <list default="true" id="385672c1-8138-44da-9a3b-0b9e89406409" name="Changes" comment="BEE 1014">
+      <change afterPath="$PROJECT_DIR$/iniciante/bee1015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683886770358</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="BEE 1013">
+      <created>1683886987094</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683886987094</updated>
+    </task>
+    <task id="LOCAL-00013" summary="BEE 1014">
+      <created>1683887227631</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683887227631</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +258,8 @@
     <MESSAGE value="BEE 1010" />
     <MESSAGE value="BEE 1011" />
     <MESSAGE value="BEE 1012" />
-    <option name="LAST_COMMIT_MESSAGE" value="BEE 1012" />
+    <MESSAGE value="BEE 1013" />
+    <MESSAGE value="BEE 1014" />
+    <option name="LAST_COMMIT_MESSAGE" value="BEE 1014" />
   </component>
 </project>
