@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="385672c1-8138-44da-9a3b-0b9e89406409" name="Changes" comment="BEE 1014">
-      <change afterPath="$PROJECT_DIR$/iniciante/bee1015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="385672c1-8138-44da-9a3b-0b9e89406409" name="Changes" comment="BEE 1016">
+      <change afterPath="$PROJECT_DIR$/iniciante/bee1017.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +232,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683887227631</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="BEE 1015">
+      <created>1683894132125</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683894132125</updated>
+    </task>
+    <task id="LOCAL-00015" summary="BEE 1015">
+      <created>1683894283536</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683894283536</updated>
+    </task>
+    <task id="LOCAL-00016" summary="BEE 1016">
+      <created>1683894382517</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683894382517</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +280,8 @@
     <MESSAGE value="BEE 1012" />
     <MESSAGE value="BEE 1013" />
     <MESSAGE value="BEE 1014" />
-    <option name="LAST_COMMIT_MESSAGE" value="BEE 1014" />
+    <MESSAGE value="BEE 1015" />
+    <MESSAGE value="BEE 1016" />
+    <option name="LAST_COMMIT_MESSAGE" value="BEE 1016" />
   </component>
 </project>
