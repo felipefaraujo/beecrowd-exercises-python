@@ -1,25 +1,23 @@
-A, B, C = input().split()
-A = float(A)
-B = float(B)
-C = float(C)
+a, b, c = map(float, input().split())
 
-if A < B:
-    A, B = B, A
-if A < C:
-    A, C = C, A
-if B < C:
-    B, C = C, B
+if a < b:
+    a, b = b, a
+if a < c:
+    a, c = c, a
+if b < c:
+    b, c = c, b
 
-if A >= B + C:
+if a >= b + c:
     print("NAO FORMA TRIANGULO")
 else:
-    if A**2 == B**2 + C**2:
+    if a**2 == b**2 + c**2:
         print("TRIANGULO RETANGULO")
-    if A**2 > B**2 + C**2:
+    elif a**2 > b**2 + c**2:
         print("TRIANGULO OBTUSANGULO")
-    if A**2 < B**2 + C**2:
+    else:
         print("TRIANGULO ACUTANGULO")
-    if A == B == C:
+
+    if a == b == c:
         print("TRIANGULO EQUILATERO")
-    if A == B != C or A == C != B or B == C != A:
+    elif a == b or a == c or b == c:
         print("TRIANGULO ISOSCELES")
