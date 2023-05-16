@@ -5,8 +5,8 @@ total_final = hora_final * 60 + minuto_final
 
 tempo = total_final - total_inicial
 
-if tempo == 0:
-    tempo += 1440
+if tempo <= 0:
+    tempo = tempo + 24 * 60
 
 horas = tempo // 60
 minutos = tempo % 60
