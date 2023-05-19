@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="385672c1-8138-44da-9a3b-0b9e89406409" name="Changes" comment="Página 2 - Iniciante">
-      <change afterPath="$PROJECT_DIR$/iniciante/pagina2/bee1065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iniciante/pagina2/bee1066.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -484,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684442301535</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Página 2 - Iniciante">
+      <created>1684504643539</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1684504643539</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
