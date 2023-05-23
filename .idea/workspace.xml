@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="385672c1-8138-44da-9a3b-0b9e89406409" name="Changes" comment="Página 3 - Iniciante">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iniciante/pagina3/bee1114.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,13 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683836867525</updated>
-    </task>
-    <task id="LOCAL-00016" summary="BEE 1016">
-      <created>1683894382517</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1683894382517</updated>
     </task>
     <task id="LOCAL-00017" summary="BEE 1017">
       <created>1683894746341</created>
@@ -511,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684714564720</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Página 3 - Iniciante">
+      <created>1684803707515</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1684803707516</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
