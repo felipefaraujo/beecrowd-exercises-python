@@ -10,7 +10,9 @@ for i in range(teste):
     contador = 0
     while pa <= pb:
         pa = pa + (pa * (g1 / 100))
+        pa = (pa * 100) // 100
         pb = pb + (pb * (g2 / 100))
+        pb = (pb * 100) // 100
         contador += 1
 
     if contador > 100:
