@@ -11,26 +11,28 @@ for i in range(15):
 contador_par = 0
 contador_impar = 0
 
-for j, valor in enumerate(vetor):
-    if valor % 2 == 0 and contador_par < 5:
-        par.append(valor)
-        contador_par += 1
-    elif valor % 2 == 0 and contador_par >= 5:
-        par2.append(valor)
-    elif valor % 2 != 0 and contador_impar < 5:
-        impar.append(valor)
-        contador_impar += 1
-    elif valor % 2 != 0 and contador_impar >= 5:
-        impar2.append(valor)
+for valor in vetor:
+    if valor % 2 == 0:
+        if contador_par >= 5:
+            par2.append(valor)
+        else:
+            contador_par += 1
+            par.append(valor)
+    elif valor % 2 != 0:
+        if contador_impar >= 5:
+            impar2.append(valor)
+        else:
+            contador_impar += 1
+            impar.append(valor)
 
-for x, valor in enumerate(par):
-    print(f"par[{x}] = {valor}")
+for j, v in enumerate(par):
+    print(f"par[{j}] = {v}")
 
-for w, valor in enumerate(impar):
-    print(f"impar[{w}] = {valor}")
+for k, v in enumerate(impar):
+    print(f"impar[{k}] = {v}")
 
-for z, valor in enumerate(impar2):
-    print(f"impar[{z}] = {valor}")
+for l, v in enumerate(impar):
+    print(f"impar[{l}] = {v}")
 
-for y, valor in enumerate(par2):
-    print(f"par[{y}] = {valor}")
+for m, v in enumerate(par):
+    print(f"par[{m}] = {v}")
